@@ -14,7 +14,7 @@ sysinfo.txt
 *.pdb.meta
 Assets/Plugins/Android/Assets/*
 # Builds
-*.apk
+#*.apk
 # Comlements
 MORPH3D/
 Morph3D.meta
